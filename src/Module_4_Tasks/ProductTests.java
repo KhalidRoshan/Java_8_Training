@@ -3,7 +3,7 @@ package Module_4_Tasks;
 import java.util.ArrayList;
 import java.util.function.Predicate;
 
-public class ProductPriceTests {
+public class ProductTests {
 
     public static void main(String[] args) {
 
